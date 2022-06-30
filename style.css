@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.main{
+    background-image: url(./image/main__bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main_{
+
+text-align: center;
+}
+.logo{
+    width: 170px;
+    margin: 25px 0 30px 0;
+    cursor: pointer;
+}
+.main__h2{
+    margin: 0 0 5px 0;
+    font-size: 23px;
+    color: white;
+}
+.mainH2__num2{
+    margin: 0 0 25px 0;
+    color: white;
+    font-size: 24px;
+}
+.main__p1{
+    margin: 0;
+    color: white;
+}
+.main__span{
+    color: white;
+    font-weight: 700;
+}
+.main__p2{
+    margin: 0 0 0 0;
+    color: white;
+}
+.main__p3{
+    margin: 0 0 0 0;
+    color: white;
+}
+.main__img{
+    width: 80%;
+    margin: 10px 0 0 0;
+    cursor: pointer;
+}
+.section1{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url(./image/sec2bg.png);
+    display: flex;
+    justify-content: space-between;
+}
+.sec1__div1{
+    width: 30%;
+}
+.sec1__div1 img{
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.sec1__div2{
+    margin-right: 22%;
+}
+.sec1__h3{
+    color: white;
+    font-size: 20px;
+    margin: 120px 0 15px 0;
+}
+.sec1__h21{
+    color: white;
+    font-size: 20px;
+    margin: 0 0 0 0;
+}
+.sec1__h22{
+    color: white;
+    margin: 6px 0 26px 0;
+    font-size: 20px;
+}
+.sec1__p1{
+    color: white;
+    font-size: 13px;
+    margin: 0 0 0 0;
+}
+.sec1__span{
+    color: white;
+    font-weight: 800;
+}
+.sec1__p2{
+    color: white;
+    font-size: 13px;
+    margin: 0 0 0 0;
+}
+.sec1__p3{
+    color: white;
+    margin: 0 0 0 0;
+    font-size: 13px;
+}
+.sec1__p4{
+    color: white;
+    margin: 0 0 0 0;
+    font-size: 13px;
+}
+.section2{
+    background-image: url(./image/sec3__bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec2__div{
+    float: right;
+}
+.sec2__div h3{
+    color: white;
+    margin: 150px 0 20px 0;
+    font-size: 18px;
+}
+.sec2__h21{
+    color: white;
+    margin: 0 0 5px 0;
+    font-size: 25px;
+}
+.sec2__h22{
+    color: white;
+    margin: 0 0 35px 0;
+    font-size: 25px;
+}
+.sec2__p1{
+    color: white;
+    margin: 0 0 0 0;
+    font-weight: 600;
+}
+.sec2__p2{
+    color: white;
+    margin: 0 0 200px 0;
+}
+.section3{
+    display: flex;
+    justify-content: space-between;
+}
+.sec3__h41{
+    margin: 60px 0 15px 0;
+    font-weight: 600;
+}
+.sec3__h42{
+    margin: 0 0 5px 0;
+    font-weight: 600;
+}
+.sec3__h43{
+    margin: 0 0 5px 0;
+    font-weight: 600;
+}
+.sec3__h44{
+    margin: 0 0 50px 0;
+    font-weight: 600;
+}
+.sec3__p1{
+    margin: 0 0 0 0;
+    color: grey;
+}
+.sec3__span{
+    font-weight: 600;
+    color: black;
+}
+.sec3__p2{
+    color: grey;
+}
+.sec3__p3{
+    color: grey;
+}
+.sec3__p4{
+    color: grey;
+}
+.sec3__div2 img{
+    margin: 30px 0 0 0;
+    width: 85%;
+    float: right;
+}
+.footer{
+    background-image: url(./image/footer__bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.footer h4{
+    color: white;
+    font-family: inherit;
+}
+.footer p{
+    color: #565656;
+    font-size: 12px;
+}
+.footer__logo{
+    margin: 40px 0 10px 0;
+    width: 50px;
+    cursor: pointer;
+}
+.footer__span{
+    color: white;
+    cursor: pointer;
+}
+.footer__like{
+    margin: 20px 0 30px 0;
+    width: 40px;
+    cursor: pointer;
+}
